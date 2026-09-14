@@ -25,15 +25,8 @@ npx tsx index.ts
 
 Ao iniciar, você cria uma conta ou faz login. Depois, um menu permite adicionar, ver, editar e excluir itens da sua lista.
 
-## Roadmap
-
-- Filtrar por tipo ou gênero
-- Ordenar por avaliação
-
 ## Autoria
 
 Desenvolvido por Thalita Peronico e Ana Massary.
 
-## Status
 
-Em desenvolvimento ativo.
